@@ -1,0 +1,15 @@
+{
+    "name": "dacaballero-skills",
+    "owner": {
+      "name": "David Caballero",
+      "email": "dacaballero@gmail.com"
+    },
+    "plugins": [
+      {
+        "name": "specify-to-beads",
+        "source": "./specify-to-beads",
+        "description": "Converts the-startup /specify output into Beads epics and tasks",
+        "strict": false
+      }
+    ]
+  }
