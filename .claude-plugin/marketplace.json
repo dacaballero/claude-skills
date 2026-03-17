@@ -10,6 +10,12 @@
         "source": "./specify-to-beads",
         "description": "Converts the-startup /specify output into Beads epics and tasks",
         "strict": false
+      },
+      {
+        "name": "spanish-spell-checker",
+        "source": "./spanish-spell-checker",
+        "description": "Spell checker for spanish language",
+        "strict": false
       }
     ]
   }
